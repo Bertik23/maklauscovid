@@ -1,0 +1,17 @@
+@media(prefers-color-scheme: light){
+    h1 {
+        color: black;
+    }
+    body{
+        background-color: #F0F0F0
+    }
+}
+
+@media(prefers-color-scheme: dark){
+    h1 {
+        color: #F0F0F0;
+    }
+    body{
+        background-color: #272727
+    }
+}
